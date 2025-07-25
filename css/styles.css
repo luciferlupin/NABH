@@ -1,8 +1,8 @@
 /* Global Styles */
 :root {
-    --primary-color: #2563eb;
-    --secondary-color: #1e40af;
-    --accent-color: #3b82f6;
+    --primary-color: #d9232d; /* Red from logo */
+    --secondary-color: #f47c20; /* Orange from logo */
+    --accent-color: #ff9800;  /* Lighter Orange */
     --text-color: #1f2937;
     --light-text: #6b7280;
     --light-bg: #f3f4f6;
